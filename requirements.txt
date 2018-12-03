@@ -1,3 +1,4 @@
+#https://blog.csdn.net/jackieliuqihe/article/details/79457264
 aioredis==1.1.0
 appnope==0.1.0
 asgiref==2.3.2
